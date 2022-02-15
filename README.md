@@ -3,6 +3,12 @@
 ## Introduction<a class="anchor" id="intro"></a>
 * Can the emergence of the Omicron variant explain the recent market drawdown?
 
+[click here for easy view](https://nbviewer.org/github/hiladar0/normalcy_index/blob/main/corona_index.ipynb)
+
+
+<img width="1000" alt="data_map" src="https://github.com/hiladar0/normalcy_index/blob/main/images/Normalcy%20index%20vs%20The%20S%26P500.png">
+
+
 In this notebook we use different "normalcy" features to construct a Covid-indicator and explore the connection between the indicator and the S&P500
 
 **Detail**
@@ -26,8 +32,6 @@ use the Economist pandemic indicators to explain variations in the S&P500
 
 
 **Summary**
-
-<img width="1000" alt="data_map" src="https://github.com/hiladar0/normalcy_index/blob/main/images/Normalcy%20index%20vs%20The%20S%26P500.png">
 
 
 No surprises, the S&P500 and the normalcy index are positively correlated. Presumably, the recent high-gradient negative changes in the index (caused by the Omicron variant) explain the recent market drawdown and volatility. The weekly changes in the indices are correlated as well.
