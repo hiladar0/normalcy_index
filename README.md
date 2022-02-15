@@ -3,6 +3,9 @@
 ## Introduction<a class="anchor" id="intro"></a>
 * Can the emergence of the Omicron variant explain the recent market drawdown?
 
+[click here for easy view](https://nbviewer.org/github/hiladar0/normalcy_index/blob/main/corona_index.ipynb)
+
+
 <img width="1000" alt="data_map" src="https://github.com/hiladar0/normalcy_index/blob/main/images/Normalcy%20index%20vs%20The%20S%26P500.png">
 
 
