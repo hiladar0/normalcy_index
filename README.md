@@ -1,5 +1,5 @@
 # Pandemic Normalcy Index as Financial Factor
-
+@ hila dar, itai shapira
 ## Introduction<a class="anchor" id="intro"></a>
 * Can the emergence of the Omicron variant explain the recent market drawdown?
 
